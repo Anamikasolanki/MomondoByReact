@@ -1,0 +1,32 @@
+[
+  {
+    "icon":"fa fa-bicycle",
+    "meter":"5670 M",
+    "name":"CYCLYING TRAKE"
+  },
+  {
+    "icon":"fa fa-road",
+    "meter":"480 M",
+    "name":"DISTANCE COVERED"
+  },
+  {
+    "icon":"fa fa-road",
+    "meter":"5680 M",
+    "name":"ATTITUDE HIKED"
+  },
+  {
+    "icon":"fa fa-road",
+    "meter":"180 M",
+    "name":"SAILING DISTANCE"
+  },
+  {
+    "icon":"fa fa-road",
+    "meter":"570 M",
+    "name":"SPENT ADVENTURE"
+  },
+  {
+    "icon":"fa fa-map",
+    "meter":"567 M",
+    "name":"JUDGE DISTANCE"
+  }
+]

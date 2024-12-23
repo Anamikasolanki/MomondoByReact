@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.fs-10{
+  font-size: 100px !important;
+}
+.bg-deepPurple{
+  background-color: #1F1844;
+}
+.text-white{
+  color: #fff !important;
+}
+.bg-fun{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../public/img/fun.jpg");
+  width: 100%;
+  height: auto;
+}
+.news{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url("../public/img/newslatter.jpg");
+  width: 100%;
+  height: auto;
+}
+
+.popular{
+  background-color:#887CB7 ;
+}
+
+.footer{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url("../public/img/footer.jpg");
+  width: 100%;
+  height: auto;
+  background-size: cover;
+}
+
+.list{
+  font-size: 15px;
+}
